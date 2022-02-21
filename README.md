@@ -1,12 +1,13 @@
+```js
+npm install a-life
+```
 <div align="center">
  
- 
 <!--    About me preview    -->
- 
-  <a href="https://github.com/Callumgm">
+<a href="https://github.com/Callumgm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Callumgm&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callumgm&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
+ </div>
  
  
 <!--    Icons    -->
@@ -23,6 +24,3 @@
 
 
 <a href="http://callumgrady.tk" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
-```js
-npm install a-life
-```
