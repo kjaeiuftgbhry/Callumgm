@@ -1,3 +1,4 @@
+## Loading . . .
 <div align="center">
   <a href="https://github.com/Callumgm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Callumgm&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
