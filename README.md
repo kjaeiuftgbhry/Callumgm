@@ -1,7 +1,20 @@
-<div align="center">
-  <a href="https://github.com/Callumgm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callumgm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align='center'>
+    <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Callumgm'/>
+    </a>
+    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Callumgm&logo=Github&style=for-the-badge&color=16a085'>
+    <a href='https://github.com/Callumgm?tab=followers'>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/Callumgm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+    </a>
+</p>
+
+<br>
+<br>
+
+ <p align = 'center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=Callumgm&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Callumgm&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
+</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
