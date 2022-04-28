@@ -11,10 +11,11 @@
 <br>
 <br>
 
- <p align = 'center'>
+ <p align = 'centre'>
     <img src='https://github-readme-stats.vercel.app/api?username=Callumgm&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Callumgm&count_private=true&hide=procfile&theme=gotham&&hide_border=true&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Languages" alt="Callumgm" /> 
 </p>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
