@@ -12,7 +12,7 @@
 <br>
 
  <p align = 'centre'>
-    <img src='https://github-readme-stats.vercel.app/api?username=Callumgm&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=Callumgm&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Callumgm&count_private=true&hide=procfile&theme=gotham&&hide_border=true&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Languages" alt="Callumgm" /> 
 </p>
 
